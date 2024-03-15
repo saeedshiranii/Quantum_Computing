@@ -11,11 +11,6 @@ This repository is dedicated to storing codes related to tutorials in the field 
 
 
 
-![1DcccGSN4D7DRGX8Ximvpsw]()
-
-
-
-
 ## Contact
 
 If you have any suggestions or feedback, you can reach me via email at saeedshirani7878@gmail.com
