@@ -1,23 +1,17 @@
 # Quantum Computing
-This repository is for storing codes of tutorials i see in feild of queantum computing and quantum information theory
-all codes on this repository is on languege python, Qiskit, and other possible quantum coding languages
-in feature i hope i could write code on high level quantum algorithms and Quantum machin learning (QML)
-
-
+This repository is dedicated to storing codes related to tutorials in the field of quantum computing and quantum information theory. All codes in this repository are written in Python, Qiskit, and other potential quantum coding languages. In the future, I aim to expand the repository to include high-level quantum algorithms and Quantum Machine Learning (QML) codes.
 
 ##  Requirements
 
+| Tool | Icon |
+|---|---|
+| **`Python`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
+| **`Qiskit`** | <img alt="Go SDK" src=https://github.com/saeedshiranii/Quantum_Computing/assets/77902443/18fb59a9-4e43-4ee1-83fe-252b2693aa39 width="150px"/>  | 
+| **`Anaconda`** |  <img alt="Go SDK" src=https://github.com/saeedshiranii/Quantum_Computing/assets/77902443/1c8b1857-51fa-48f6-8c40-7ca2fd4a79c8 width="150px"/>  | 
 
-- **`Python`**
-- **`Qiskit`**
-- **`Anaconda`**
-  
-![1ycIMlwgwicqlO6PcFRA-Iw](https://i.ibb.co/Qmp8xv3/1yc-IMlwgwicql-O6-Pc-FRA-Iw.webp)
 
-![1DcccGSN4D7DRGX8Ximvpsw](https://i.ibb.co/bHvW8JV/1-Dccc-GSN4-D7-DRGX8-Ximvpsw.webp)
 
-![Anaconda_Logo](https://github.com/saeedshiranii/Quantum_Computing/assets/77902443/1c8b1857-51fa-48f6-8c40-7ca2fd4a79c8)
-
+![1DcccGSN4D7DRGX8Ximvpsw]()
 
 
 
